@@ -36,7 +36,7 @@ public class RandomNamePicker extends JFrame {
 
         setTitle("点名小程序");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//可关闭窗口
-        setSize(400, 350);
+        setSize(400, 350);//窗体大小
         setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));//垂直排列
 
         names = new ArrayList<>(); // 初始化名字列表

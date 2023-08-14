@@ -3,7 +3,7 @@ info:
   title: 
   description: 
   version: 1.0.0
-host: 
+host: 9090
 schemes:
   - https
 paths:
